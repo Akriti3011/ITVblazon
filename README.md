@@ -1,4 +1,5 @@
-ITV Blazon, SMS Alert System is a Website for the non-academics of our college where all the clubs and committees can contact their respective members via SMS. The main objective was to overcome the mis-communication gap due to unavailability of internet facility. 
+ITV Blazon, SMS Alert System is a Website for the non-academics of our college where all the clubs and committees can contact their respective members via SMS. The main objective was to overcome the communication gap due to unavailability of internet facility. 
+Programming languages: HTML CSS JavaScript PHP Jquery.
 
 
 Group Members:
